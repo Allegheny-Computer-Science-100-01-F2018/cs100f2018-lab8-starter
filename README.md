@@ -1,5 +1,5 @@
 
-# cs100f2018-lab8-solution
+# cs100f2018-lab8-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter files for Laboratory 8 in Computer Science 100.
